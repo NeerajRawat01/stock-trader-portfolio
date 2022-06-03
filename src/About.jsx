@@ -15,10 +15,10 @@ function About() {
           </h1>
           <h3 className="text-3xl font-bold ">Shubham Negi</h3>
           <p className="text-xl">
-            Mr. Shubham Negi first foray into stock market was in 2002 and there
+            Mr. Shubham Negi first foray into stock market was in 2017 and there
             has been no looking back. Since then, he has been an avid
             practioner, passionately studying and investing in the forex and
-            cryptocurrencies markets. In 2016-17, he ventured into NSE and
+            cryptocurrencies markets. In 2018-19, he ventured into NSE and
             continued his winning streak there becoming an inspiration to those
             around him. He is an eminent social media influencer with over 1
             Lakh subscribers on his official YouTube channel. With over 2

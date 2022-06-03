@@ -5,7 +5,7 @@ function Footer() {
     <div id="contact" className="flex px-10 py-20 justify-around">
       <div>
         <h3 className="font-bold text-2xl">Gamma Gainers</h3>
-        <a  href="https://www.facebook.com/" target="_blank"></a>
+        <a href="https://www.facebook.com/" target="_blank"></a>
         <a href="https://www.facebook.com/" target="_blank"></a>
         <a href="https://www.facebook.com/" target="_blank"></a>
         <a href="https://www.facebook.com/" target="_blank"></a>
@@ -48,8 +48,8 @@ function Footer() {
             />
             <div className="flex flex-col">
               <h3 className="font-semibold">Address</h3>
-              <h3>CodeViser Pvt Ltd 201 Shalimar Square ,</h3>
-              <h3>BN Road Lalbagh, Lucknow 226001</h3>
+              <h3>Gamma Gainers, Doon Express Bussiness Park,</h3>
+              <h3>Sharanpur road , Dehradun, 248171</h3>
             </div>
           </div>
           <div className="flex space-x-2 items-center">
@@ -60,7 +60,7 @@ function Footer() {
             />
             <div className="flex flex-col">
               <h3 className="font-semibold">E-mail</h3>
-              <h3>Support@gamaGainer.com</h3>
+              <h3>shubham.negi.1640@gmail.com</h3>
             </div>
           </div>
           <div className="flex space-x-2 items-center">

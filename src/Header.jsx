@@ -14,8 +14,8 @@ function Header() {
             />
             <div className="flex flex-col">
               <h3 className="font-semibold">Address</h3>
-              <h3>CodeViser Pvt Ltd 201 Shalimar Square ,</h3>
-              <h3>BN Road Lalbagh, Lucknow 226001</h3>
+              <h3>Gamma Gainers, Doon Express Bussiness Park,</h3>
+              <h3>Sharanpur road , Dehradun, 248171</h3>
             </div>
           </div>
           <div className="flex space-x-2 items-center">
@@ -26,7 +26,7 @@ function Header() {
             />
             <div className="flex flex-col">
               <h3 className="font-semibold">E-mail</h3>
-              <h3>Support@gamaGainer.com</h3>
+              <h3>shubham.negi.1640@gmail.com</h3>
             </div>
           </div>
           <div className="flex space-x-2 items-center">
