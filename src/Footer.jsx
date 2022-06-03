@@ -4,8 +4,8 @@ function Footer() {
   return (
     <div id="contact" className="flex px-10 py-20 justify-around">
       <div>
-        <span className="font-bold text-2xl">Gamma Gainers</span>
-        <a href="https://www.facebook.com/" target="_blank"></a>
+        <h3 className="font-bold text-2xl">Gamma Gainers</h3>
+        <a  href="https://www.facebook.com/" target="_blank"></a>
         <a href="https://www.facebook.com/" target="_blank"></a>
         <a href="https://www.facebook.com/" target="_blank"></a>
         <a href="https://www.facebook.com/" target="_blank"></a>

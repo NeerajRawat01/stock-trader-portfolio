@@ -3,7 +3,7 @@ import React from "react";
 function Services() {
   return (
     <>
-      <div  id="services" className="bg-gray-100 p-20  text-center">
+      <div id="services" className="bg-gray-100 p-20  text-center">
         <h3 className="text-3xl text-indigo-700 font-bold">
           I offer various kinds of services and provide solutions
           <h3>to meet all your trading requirements</h3>
@@ -68,7 +68,10 @@ function Services() {
         </div>
       </div>
       <div className="flex p-10   justify-around bg-blue-900 text-white text-xl">
-        Join My Telegram Channel <button className="rounded-full px-5 py-2 bg-red-500">Join now</button>
+        Join My Telegram Channel{" "}
+        <button className="rounded-full px-5 py-2 bg-red-500">
+          <a href="https://t.me/+6sWWtTS8bMk3MzQ9" target="_blank">Join Now</a>
+        </button>
       </div>
     </>
   );
