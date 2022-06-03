@@ -3,10 +3,10 @@ import React from "react";
 function Clients() {
   return (
     <>
-      <div id="clients" className="bg-gray-100 p-20  text-center">
+      <div id="clients" className="bg-gray-100 py-5 sm:p-20  text-center">
         <h3 className="text-center text-3xl font-bold">Clients Review</h3>
-        <div className="flex space-x-4 p-5">
-          <div className="flex flex-col w-1/2 py-10 px-10 shadow-sm rounded-sm  bg-white items-center justify-center">
+        <div className="flex flex-col mt-3 sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 sm:px-10 ">
+          <div className="flex space-y-5 flex-col sm:w-1/2 py-10 px-10 shadow-sm rounded-sm  bg-white items-center justify-center">
             <p>
               Strengthen basic concepts and learn advanced concepts that will
               allow you to navigate the uncertainties in live market and allow
@@ -20,7 +20,7 @@ function Clients() {
             <h3 className="font-semibold text-xl">J haru</h3>
           </div>
 
-          <div className="flex flex-col  w-1/2 py-10 px-10 shadow-sm rounded-sm  bg-white items-center justify-center">
+          <div className="flex flex-col  sm:w-1/2 py-10 px-10 shadow-sm rounded-sm  bg-white items-center justify-center">
             <p>
               Master various strategies that allow you to respond to dynamic
               market conditions in a timely, effective and profitable manner.
@@ -34,8 +34,8 @@ function Clients() {
           </div>
         </div>
 
-        <div className="flex space-x-4 p-5">
-          <div className="flex flex-col w-1/2 py-10 px-10 shadow-sm rounded-sm   bg-white items-center justify-center">
+        <div className="flex flex-col mt-3 sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 sm:px-10 ">
+          <div className="flex flex-col sm:w-1/2 py-10 px-10 shadow-sm rounded-sm   bg-white items-center justify-center">
             <p>
               Strengthen basic concepts and learn advanced concepts that will
               allow you to navigate the uncertainties in live market and allow
@@ -49,7 +49,7 @@ function Clients() {
             <h3 className="font-semibold text-xl">Miranda july</h3>
           </div>
 
-          <div className="flex flex-col  w-1/2 py-10 px-10 shadow-sm rounded-sm   bg-white items-center justify-center">
+          <div className="flex flex-col  sm:w-1/2 py-10 px-10 shadow-sm rounded-sm   bg-white items-center justify-center">
             <p>
               Master various strategies that allow you to respond to dynamic
               market conditions in a timely, effective and profitable manner.
