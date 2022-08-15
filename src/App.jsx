@@ -9,15 +9,12 @@ import Services from "./Services";
 
 function App() {
   return (
-
-
     <div className="">
       <Header></Header>
       <Home></Home>
       <Services></Services>
       <Clients></Clients>
       <About></About>
-      <Footer></Footer>     
     </div>
   );
 }
