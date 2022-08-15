@@ -15,6 +15,7 @@ function App() {
       <Services></Services>
       <Clients></Clients>
       <About></About>
+      <Footer></Footer>
     </div>
   );
 }
